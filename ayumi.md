@@ -1,0 +1,4 @@
+- 👋 Hi, I’m ayumi
+- 👀 I’m interested in software dev and math 
+- 🌱 I’m currently learning C++,C#,Python and Java
+- 💞️ I’m looking to collaborate on software Development projects
